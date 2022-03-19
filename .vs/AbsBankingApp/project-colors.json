@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eb2ac3c9-1189-4f34-a73f-1d9f3b4f0a0e": {
+      "ProjectGuid": "eb2ac3c9-1189-4f34-a73f-1d9f3b4f0a0e",
+      "DisplayName": "AbsBankingApp",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c9cab830-ecf9-4c34-a7ca-bebb2d4ffc90": {
+      "ProjectGuid": "c9cab830-ecf9-4c34-a7ca-bebb2d4ffc90",
+      "DisplayName": "BankingAppCore",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
